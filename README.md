@@ -20,8 +20,8 @@ Las reglas de negocio se pueden clasificar de distintas formas, y pueden variar 
 
 
 
-Visitors
-## FUNCIONALIDAD:
+## Visitors
+### FUNCIONALIDAD:
 Al registrarse en la aplicación el usuario deberá ser menor de  25 y mayor de 15 años 
 ## BENEFICIO:
 Limita el acceso a usuarios no aptos para este contenido (menores en este caso) Los usuarios pueden confiar que la aplicación esta hecha acorde a las necesidades  y pensamientos de su edad 
