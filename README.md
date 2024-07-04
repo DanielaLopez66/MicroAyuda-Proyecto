@@ -156,5 +156,5 @@ El material deberá ser acorde su problema
 # Autores 
 #### Ana Daniela López Neri 
 #### Abril Guzman Barrera [@Abrilgb](https://github.com/Abrilgb)
-#### Edgar Cabrera Velazquez 
-#### Diego Salvador Tecorralco Martinez [github.com/DiegoTecorralco]
+#### Edgar Cabrera Velazquez [@Edgar-Cbr](github.com/Edgar-Cbr)
+#### Diego Salvador Tecorralco Martinez [@DiegoTecorralco](github.com/DiegoTecorralco)
