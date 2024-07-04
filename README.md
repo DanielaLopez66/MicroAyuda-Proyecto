@@ -123,10 +123,38 @@ El material deberá ser acorde su problema
 59.	Mantenimiento proactivo: Realizar mantenimiento proactivo de la página para garantizar su funcionamiento óptimo y prevenir posibles problemas técnicos.
 60.	Énfasis en la confidencialidad y el anonimato: Resaltar la confidencialidad y el anonimato de los servicios ofrecidos para tranquilizar a los jóvenes usuarios que puedan tener preocupaciones sobre la privacidad.
 ## **Lista de tecnologias**
+1. #### **Lenguajes de marcado y estilo:**
+   - **HTML (HyperText Markup Language):** Esencial para la estructura y el contenido de la página web.
+   - *CSS (Cascading Style Sheets):* Utilizado para el diseño y la presentación visual de la página web.
+
+2.  #### **Lenguajes de programación:**
+   - **JavaScript:** Fundamental para agregar interactividad y dinamismo a tu sitio web. Puede ser útil para implementar funciones como formularios interactivos, animaciones, y deslizadores de imágenes, entre otros.
+   - **PHP (Hypertext Preprocessor):** Útil para el desarrollo del lado del servidor, como la gestión de formularios de contacto, bases de datos, y la generación de contenido dinámico.
+
+3. #### **Frameworks y bibliotecas:**
+   - **Bootstrap:** Framework de CSS y JavaScript que facilita la creación de sitios web responsivos y con un diseño atractivo.
+   - **jQuery:** Biblioteca de JavaScript que simplifica la manipulación del DOM y el manejo de eventos en el navegador.
+   - **React.js o Vue.js:** Frameworks de JavaScript que permiten construir interfaces de usuario interactivas y componentizadas.
+
+4. #### **Gestión de contenido:**
+   - **WordPress:** Plataforma de gestión de contenido (CMS) que facilita la creación y administración de contenido web sin necesidad de conocimientos avanzados de programación.
+   - **Drupal o Joomla:** Otras opciones de CMS que pueden ser útiles dependiendo de tus necesidades específicas.
+
+5. #### **Bases de datos:**
+   - **MySQL:** Sistema de gestión de bases de datos relacional ampliamente utilizado.
+   - **MongoDB:** Base de datos NoSQL que puede ser útil para almacenar y manejar datos no estructurados relacionados con la salud mental.
+
+6. #### **Herramientas de diseño y desarrollo:**
+   - **Adobe XD, Sketch, Figma:** Herramientas de diseño que te permiten crear prototipos de la interfaz de usuario y diseñar el aspecto visual de tu sitio web.
+   - *Git y GitHub:* Herramientas de control de versiones que facilitan la colaboración en el desarrollo del sitio web y la gestión de código fuente.
+
+7. #### **Seguridad y optimización:**
+   - Implementar certificados SSL para garantizar la seguridad de los datos transmitidos.
+   - Optimización de velocidad de carga utilizando técnicas como compresión de archivos, minificación de CSS y JavaScript, y optimización de imágenes.
 
 
-
+# Autores 
 #### Ana Daniela López Neri 
-#### Abril Guzman Barrera 
+#### Abril Guzman Barrera [@Abrilgb](https://github.com/Abrilgb)
 #### Edgar Cabrera Velazquez 
-#### Diego Salvador Tecorralco Martinez 
+#### Diego Salvador Tecorralco Martinez github.com/DiegoTecorralco
