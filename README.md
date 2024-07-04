@@ -212,6 +212,10 @@ El material deberá ser acorde su problema
 7. #### **Seguridad y optimización:**
    - Implementar certificados SSL para garantizar la seguridad de los datos transmitidos.
    - Optimización de velocidad de carga utilizando técnicas como compresión de archivos, minificación de CSS y JavaScript, y optimización de imágenes.
+  
+
+  ## Paleta de colores 
+ ![Paleta de colores] (https://github.com/DanielaLopez66/Proyecto/blob/main/paleta%20de%20colores.PNG)
 
 
 # Autores 
