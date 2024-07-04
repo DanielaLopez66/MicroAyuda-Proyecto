@@ -11,6 +11,18 @@ Queremos brindar información educativa sobre trastornos, herramientas como auto
 ## Objetivo general 
 Esperamos que las personas con algún problema psicológico pueda encontrar un poco de ayuda en nuestra pagina ya que esta estará enfocada en ciertos problemas psicológico.
 Nuestra pagina se enfocara en esta serie de problemas pero mas que nada en los jóvenes que viven con ello, esto ya que actualmente hay muchos casos en estos días y algunas veces los jóvenes suelen tomar malas decisiones 
+
+## Objetivos especificos
+
+**Personalización y Flexibilidad:** El texto busca adaptarse y cambiar según las respuestas del usuario, creando así una experiencia más personalizada y entretenida. Esto implica que las preguntas y el flujo de la prueba pueden variar significativamente dependiendo de las respuestas previas del usuario.
+
+**Interactividad Visual:** Se emplean imágenes y colores para mantener el interés del usuario durante la prueba. Este enfoque no solo busca informar, sino también mantener comprometido al usuario a lo largo del proceso.
+
+**Entrega de Resultados Claros:** Al finalizar la prueba, el texto tiene como objetivo proporcionar al usuario un mensaje claro que indique el nombre del problema psicológico detectado. Esto se acompaña de una breve explicación sobre el trastorno identificado y sugerencias sobre qué pasos seguir a continuación o dónde encontrar más ayuda profesional.
+
+**Usabilidad y Experiencia del Usuario:** El texto busca asegurar una experiencia de usuario satisfactoria y efectiva, guiando al usuario de manera clara desde el inicio hasta la entrega de los resultados.
+
+
 ## REGLAS DE NEGOCIO
 ### Tipos de reglas de negocio
 Las reglas de negocio se pueden clasificar de distintas formas, y pueden variar en su clasificación en función de la fuente de información. Sin embargo, independientemente de su categorización, las reglas de negocio suelen expresarse mediante calificadores lógicos formales, tales como: "IF-THEN", "IF-ELSE", "ONLY IF", "WHEN", etc. Esta sintaxis se utiliza en los siguientes tipos de reglas de negocio:
