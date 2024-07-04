@@ -215,7 +215,7 @@ El material deberá ser acorde su problema
   
 
   ## Paleta de colores 
- ![Paleta de colores] (https://github.com/DanielaLopez66/Proyecto/blob/main/paleta%20de%20colores.PNG)
+ ![Paleta de colores] (https://github.com/DanielaLopez66/Proyecto/blob/main/paleta%20de%20colores.PNG).
 
 
 # Autores 
