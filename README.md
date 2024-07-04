@@ -1,5 +1,5 @@
 # Micro Ayuda 
-![Logo de Micro Ayuda](logo integradora.jfif).
+![Logo de Micro Ayuda].(logo integradora.jfif).
 ## Problematica 
 Actualmente hay muchas personas que sufren de problemas psicologicos estos tienen diferentes causas, con el paso del tiempo si estos no son tratados te pueden llegar a afectar fisicamente.
 Algunas de las personas que tienen este tipo de problemas pueden llegar a cometer hasta suicidio.
