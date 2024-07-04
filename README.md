@@ -1,5 +1,6 @@
 # Micro Ayuda 
 ![Logo de Micro Ayuda](https://github.com/DanielaLopez66/Proyecto/blob/main/logotipo.PNG).
+![Logo](https://github.com/DanielaLopez66/Proyecto/blob/main/logonuevo.PNG).
 ## Problematica 
 Actualmente hay muchas personas que sufren de problemas psicologicos estos tienen diferentes causas, con el paso del tiempo si estos no son tratados te pueden llegar a afectar fisicamente.
 Algunas de las personas que tienen este tipo de problemas pueden llegar a cometer hasta suicidio.
