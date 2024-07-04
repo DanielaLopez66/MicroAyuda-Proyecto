@@ -157,4 +157,4 @@ El material deberá ser acorde su problema
 #### Ana Daniela López Neri 
 #### Abril Guzman Barrera [@Abrilgb](https://github.com/Abrilgb)
 #### Edgar Cabrera Velazquez 
-#### Diego Salvador Tecorralco Martinez github.com/DiegoTecorralco
+#### Diego Salvador Tecorralco Martinez [github.com/DiegoTecorralco]
