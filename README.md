@@ -220,7 +220,7 @@ El material deberá ser acorde su problema
 
 
 # Autores 
-#### Ana Daniela López Neri 
+#### Ana Daniela López Neri [@DanielaLopez66](https://github.com/DanielaLopez66)
 #### Abril Guzman Barrera [@Abrilgb](https://github.com/Abrilgb)
 #### Edgar Cabrera Velazquez [@Edgar-Cbr](https://github.com/Edgar-Cbr)
 #### Diego Salvador Tecorralco Martinez [@DiegoTecorralco](https://github.com/DiegoTecorralco)
