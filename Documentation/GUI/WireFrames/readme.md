@@ -1,4 +1,4 @@
-# Wireframes 
+# Wireframes  ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 En esta sección se encuentran los wireframes de la aplicación.
 
 Este apartado contiene los primeros esbozos para el diseño de la aplicación. Aquí se presentan las páginas y secciones que formarán parte de la aplicación, detallando el contenido, la ubicación de los botones, los títulos, así como la disposición de imágenes y textos.
