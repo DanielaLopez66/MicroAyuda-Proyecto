@@ -32,9 +32,9 @@ Nuestra pagina se enfocara en esta serie de problemas pero mas que nada en los j
 |Integrante|Contacto|Rol|Observaciones|
 |------------|--------|---|---|
 |Ana Daniela Lopez Neri|[@DanielaLopez66](https://github.com/DanielaLopez66)|Líder de las base de datos|✅ Revisado y aprobado.|
-|Abril Guzman Barrera|[@Abrilgb](https://github.com/Abrilgb)|Documemtacion||No a reviso:(|
-|Edgar Cabrera Velazquez |[@Edgar-Cbr](https://github.com/Edgar-Cbr)|desarrollador de backend y frontend||No a reviso:(|
-|Diego Salvador Tecorralco Martinez |[@DiegoTecorralco](https://github.com/DiegoTecorralco)||No a reviso:(|
+|Abril Guzman Barrera|[@Abrilgb](https://github.com/Abrilgb)|Lider de Frontend||No a reviso:(|
+|Edgar Cabrera Velazquez |[@Edgar-Cbr](https://github.com/Edgar-Cbr)|Lider de Backend ||No a reviso:(|
+|Diego Salvador Tecorralco Martinez |[@DiegoTecorralco](https://github.com/DiegoTecorralco)|Lider de documentación|No a reviso:(|
 
 ## Organigrama
 ![Organigrama](https://github.com/DanielaLopez66/MicroAyuda-Proyecto/blob/main/organigrama.png).
