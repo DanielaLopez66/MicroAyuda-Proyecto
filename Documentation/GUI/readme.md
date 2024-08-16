@@ -19,10 +19,10 @@ Esta carpeta contiene toda la informacion por parte de el diseñador de la inter
 ## Equipo de desarrollo
 |Integrante|Contacto|Rol|Observaciones|
 |----------|--------|-----------|----------|
-|Ana Daniela Lopez Neri|[@DanielaLopez66](https://github.com/DanielaLopez66)| Lider del desarrollo Data Bases| ✅|
-|Abril Guzmán Barrera|[@Abrilgb](https://github.com/Abrilgb)|Desarrollo de Fronend|✅|
-| Edgar Cabrera Velazquez| [@Edgar-Cbr](https://github.com/Edgar-Cbr)| Encargado de desarrollo de backend|✅ |
-|Diego Salvador Tecorralco Martinez| [@DiegoTecorralco](https://github.com/DiegoTecorralco)| Encargado de la documentacion|✅|
+|Ana Daniela Lopez Neri|[@DanielaLopez66](https://github.com/DanielaLopez66)| Lider del desarrollo Data Bases|❌|
+|Abril Guzmán Barrera|[@Abrilgb](https://github.com/Abrilgb)|Desarrollo de Fronend|✅ Aprovado y revisado|
+| Edgar Cabrera Velazquez| [@Edgar-Cbr](https://github.com/Edgar-Cbr)| Encargado de desarrollo de backend|❌ |
+|Diego Salvador Tecorralco Martinez| [@DiegoTecorralco](https://github.com/DiegoTecorralco)| Encargado de la documentacion|❌|
 
 
 
