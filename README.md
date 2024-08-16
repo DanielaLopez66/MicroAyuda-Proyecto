@@ -36,32 +36,24 @@ Nuestra pagina se enfocara en esta serie de problemas pero mas que nada en los j
 |Edgar Cabrera Velazquez |[@Edgar-Cbr](https://github.com/Edgar-Cbr)|desarrollador de backend y frontend||No a reviso:(|
 |Diego Salvador Tecorralco Martinez |[@DiegoTecorralco](https://github.com/DiegoTecorralco)||No a reviso:(|
 
+## Organigrama
+![Organigrama](https://github.com/DanielaLopez66/MicroAyuda-Proyecto/blob/main/organigrama.png).
+
+
 ## **Lista de tecnologias**
 1. #### **Lenguajes de marcado y estilo:**
-   - **HTML (HyperText Markup Language):** Esencial para la estructura y el contenido de la página web.
-   - *CSS (Cascading Style Sheets):* Utilizado para el diseño y la presentación visual de la página web.
+   - ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)Esencial para la estructura y el contenido de la página web.
+   - ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) Utilizado para el diseño y la presentación visual de la página web.
 
 2.  #### **Lenguajes de programación:**
-   - **JavaScript:** Fundamental para agregar interactividad y dinamismo a tu sitio web. Puede ser útil para implementar funciones como formularios interactivos, animaciones, y deslizadores de imágenes, entre otros.
-   - **PHP (Hypertext Preprocessor):** Útil para el desarrollo del lado del servidor, como la gestión de formularios de contacto, bases de datos, y la generación de contenido dinámico.
+   - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) Fundamental para agregar interactividad y dinamismo a tu sitio web. Puede ser útil para implementar funciones como formularios interactivos, animaciones, y deslizadores de imágenes, entre otros.
+   - ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) Útil para el desarrollo del lado del servidor, como la gestión de formularios de contacto, bases de datos, y la generación de contenido dinámico.
 
-3. #### **Frameworks y bibliotecas:**
-   - **Bootstrap:** Framework de CSS y JavaScript que facilita la creación de sitios web responsivos y con un diseño atractivo.
-   - **jQuery:** Biblioteca de JavaScript que simplifica la manipulación del DOM y el manejo de eventos en el navegador.
-   - **React.js o Vue.js:** Frameworks de JavaScript que permiten construir interfaces de usuario interactivas y componentizadas.
+3. #### **Bases de datos:**
+   - ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) Sistema de gestión de bases de datos relacional ampliamente utilizado.
 
-4. #### **Gestión de contenido:**
-   - **WordPress:** Plataforma de gestión de contenido (CMS) que facilita la creación y administración de contenido web sin necesidad de conocimientos avanzados de programación.
-   - **Drupal o Joomla:** Otras opciones de CMS que pueden ser útiles dependiendo de tus necesidades específicas.
+4. #### **Herramientas de diseño y desarrollo:**
+   - ![Adobe Ilustraitor](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) Herramientas de diseño que te permiten crear prototipos de la interfaz de usuario y diseñar el aspecto visual de tu sitio web.
+   - ![Github](https://img.shields.io/github/followers/{username}.svg?style=social&label=Follow&maxAge=2592000) Herramientas de control de versiones que facilitan la colaboración en el desarrollo del sitio web y la gestión de código fuente.
 
-5. #### **Bases de datos:**
-   - **MySQL:** Sistema de gestión de bases de datos relacional ampliamente utilizado.
-   - **MongoDB:** Base de datos NoSQL que puede ser útil para almacenar y manejar datos no estructurados relacionados con la salud mental.
 
-6. #### **Herramientas de diseño y desarrollo:**
-   - **Adobe XD, Sketch, Figma:** Herramientas de diseño que te permiten crear prototipos de la interfaz de usuario y diseñar el aspecto visual de tu sitio web.
-   - *Git y GitHub:* Herramientas de control de versiones que facilitan la colaboración en el desarrollo del sitio web y la gestión de código fuente.
-
-7. #### **Seguridad y optimización:**
-   - Implementar certificados SSL para garantizar la seguridad de los datos transmitidos.
-   - Optimización de velocidad de carga utilizando técnicas como compresión de archivos, minificación de CSS y JavaScript, y optimización de imágenes.
