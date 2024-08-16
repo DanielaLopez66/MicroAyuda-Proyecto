@@ -1,4 +1,4 @@
-# MOCKUPS  [Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
+# MOCKUPS  ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 En la siguiente carpeta estaré colocando los diferentes escenarios de la aplicación web. 
 
 Estos escenarios incluirán mockups detallados que mostrarán la interfaz de usuario en diferentes dipositivos. Los mockups estarán diseñados para ilustrar cómo se verán las diferentes páginas y cómo interactuarán entre sí. 
