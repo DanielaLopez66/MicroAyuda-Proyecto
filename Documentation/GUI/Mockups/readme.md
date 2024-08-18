@@ -17,7 +17,7 @@ De este lado estan las imagines de los mockup, cada uno cuenta con la interfaz q
 ## Equipo de desarrollo
 |Integrante|Contacto|Rol|Observaciones|
 |----------|--------|-----------|----------|
-|Ana Daniela Lopez Neri|[@DanielaLopez66](https://github.com/DanielaLopez66)| Lider del desarrollo Data Bases| ✅|
+|Ana Daniela Lopez Neri|[@DanielaLopez66](https://github.com/DanielaLopez66)| Lider del desarrollo Data Bases| Aprobado✅|
 |Abril Guzmán Barrera|[@Abrilgb](https://github.com/Abrilgb)|Desarrollo de Fronend|✅|
 | Edgar Cabrera Velazquez| [@Edgar-Cbr](https://github.com/Edgar-Cbr)| Encargado de desarrollo de backend| ✅ |
 |Diego Salvador Tecorralco Martinez| [@DiegoTecorralco](https://github.com/DiegoTecorralco)| Encargado de la documentacion|✅|
