@@ -3,6 +3,8 @@
 
  Es una copia que se realiza frecuentemente a los datos, archivos o información CRITICA. El backup nos permite estar tranquilo que la información puede recuperarse en caso de que los equipos o las aplicaciones se dañen.
 
+ ![Backups](https://github.com/DanielaLopez66/MicroAyuda-Proyecto/blob/main/Databases/Backups/backups.PNG).
+
 ## Estructura de Archivos
 
 >IntegradoraI-NombreProyecto<br>
