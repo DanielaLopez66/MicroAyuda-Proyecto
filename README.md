@@ -57,6 +57,6 @@ Nuestra pagina se enfocara en esta serie de problemas pero mas que nada en los j
 
 4. #### **Herramientas de diseño y desarrollo:**
    - ![Adobe Ilustraitor](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) Herramientas de diseño que te permiten crear prototipos de la interfaz de usuario y diseñar el aspecto visual de tu sitio web.
-   - ![Github](https://img.shields.io/github/followers/{username}.svg?style=social&label=Follow&maxAge=2592000) Herramientas de control de versiones que facilitan la colaboración en el desarrollo del sitio web y la gestión de código fuente.
+   - ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) Herramientas de control de versiones que facilitan la colaboración en el desarrollo del sitio web y la gestión de código fuente.
 
 
