@@ -2,6 +2,10 @@
 
 
  Un diccionario de datos proporciona una base de datos para almacenar información sobre los elementos de datos, como los nombres de las variables medidas, sus tipos de datos, formatos, longitudes, descripciones de texto y otros detalles necesarios para comprender los datos.
+ Se muestran las tablas que tenemos en este diccionario.
+
+ ![DataDictionary](https://github.com/DanielaLopez66/MicroAyuda-Proyecto/blob/main/Databases/DataDictionary/diccionario.PNG).
+ ![DataDictionary](https://github.com/DanielaLopez66/MicroAyuda-Proyecto/blob/main/Databases/DataDictionary/diccionario2.PNG).
 
 ## Estructura de Archivos
 
