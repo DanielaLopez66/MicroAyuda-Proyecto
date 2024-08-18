@@ -20,7 +20,7 @@ La sección de ansiedad detalla síntomas y actividades sugeridas para manejarla
 ## Equipo de desarrollo
 |Integrante|Contacto|Rol|Observaciones|
 |----------|--------|-----------|----------|
-|Ana Daniela Lopez Neri|[@DanielaLopez66](https://github.com/DanielaLopez66)| Lider del desarrollo Data Bases| ❌|
+|Ana Daniela Lopez Neri|[@DanielaLopez66](https://github.com/DanielaLopez66)| Lider del desarrollo Data Bases| Tiene todos los puntos que se solicitaron ✅|
 |Abril Guzmán Barrera|[@Abrilgb](https://github.com/Abrilgb)|Desarrollo de Fronend|✅Revisado y aprobado|
 | Edgar Cabrera Velazquez| [@Edgar-Cbr](https://github.com/Edgar-Cbr)| Encargado de desarrollo de backend| ❌ |
 |Diego Salvador Tecorralco Martinez| [@DiegoTecorralco](https://github.com/DiegoTecorralco)| Encargado de la documentacion|❌|
