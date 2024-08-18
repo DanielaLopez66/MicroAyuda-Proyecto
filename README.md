@@ -26,6 +26,9 @@ Nuestra pagina se enfocara en esta serie de problemas pero mas que nada en los j
 
 **Usabilidad y Experiencia del Usuario:** El texto busca asegurar una experiencia de usuario satisfactoria y efectiva, guiando al usuario de manera clara desde el inicio hasta la entrega de los resultados.
 
+## Diagrama de Gantt
+
+![Diagrama de Gantt](https://github.com/DanielaLopez66/MicroAyuda-Proyecto/blob/main/diagrama.jpg).
 
 ## Equipo de Desarrollo
 
