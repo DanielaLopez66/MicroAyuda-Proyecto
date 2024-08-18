@@ -2,6 +2,12 @@
 
 
 Un diagrama de base de datos es una herramienta visual utilizada para construir y organizar bases de datos. Puede mostrar un sistema de base de datos completo o sólo algunas partes de él.
+Aqui podemos ver de otra manera como estan estructuradas nuestras tablas.
+
+![Diagramas](https://github.com/DanielaLopez66/MicroAyuda-Proyecto/blob/main/Databases/Diagrams/diagrama%7B.PNG).
+
+![Diagramas](https://github.com/DanielaLopez66/MicroAyuda-Proyecto/blob/main/Databases/Diagrams/diagrama%202.PNG).
+
 ## Estructura de Archivos
 
 >IntegradoraI-NombreProyecto<br>
