@@ -3,6 +3,9 @@
 
 Los scripts SQL pueden utilizarse para crear la estructura de la base de datos, realizar operaciones en la base de datos y cambiar o eliminar la estructura de la base de datos.
 
+![Scripts](https://github.com/DanielaLopez66/MicroAyuda-Proyecto/blob/main/Databases/Scripts/scrip.PNG).
+![Scripts](https://github.com/DanielaLopez66/MicroAyuda-Proyecto/blob/main/Databases/Scripts/scripts.PNG).
+
 ## Estructura de Archivos
 
 >IntegradoraI-NombreProyecto<br>
