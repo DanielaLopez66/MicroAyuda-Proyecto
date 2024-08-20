@@ -33,7 +33,7 @@ Nuestros requerimientos no funcionales están enfocados en que la aplicación we
 
 |Integrante|Contacto|Rol|Observaciones|
 |------------|--------|---|---|
-|Ana Daniela Lopez Neri|[@DanielaLopez66](https://github.com/DanielaLopez66)|Líder de las base de datos|❌ No ha revisado.|
+ |Ana Daniela Lopez Neri|[@DanielaLopez66](https://github.com/DanielaLopez66)|Líder de las base de datos|❌ Aun no se añaden los requerimientos.|
 |Abril Guzman Barrera|[@Abrilgb](https://github.com/Abrilgb)|Documemtacion|❌ No ha revisado.|
 |Edgar Cabrera Velazquez |[@Edgar-Cbr](https://github.com/Edgar-Cbr)|desarrollador de backend y frontend|❌ No ha revisado.|
 |Diego Salvador Tecorralco Martinez |[@DiegoTecorralco](https://github.com/DiegoTecorralco)||✅ Revisado y aprobado.|
