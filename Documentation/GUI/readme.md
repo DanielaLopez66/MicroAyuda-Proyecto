@@ -1,7 +1,7 @@
 # GUI  ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 Esta carpeta contiene toda la informacion por parte de el diseñador de la interfaz de usuario, colando todos sus inicios de las ideas de la aplicacio. esto nos ayudara a la comunicacion del equipo y de esta manera ver como fue evolucionando las soluciones de problamas o implemetacion de ideas conforme avanza el tiempo de nuestra cradion. 
 
-[LOGO](/FrontEnd/Assets/Logo1.png)
+![LOGO](/FrontEnd/Assets/Logo1.png)
 
 ## Estructura de archivos 
 >IntegradoraI-Micro Ayuda <br>
