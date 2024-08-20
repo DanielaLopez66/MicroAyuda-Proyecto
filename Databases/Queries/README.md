@@ -3,6 +3,8 @@
 
 Una consulta o query de una base de datos, es un lenguaje estándar que permite traer datos de una o más tablas, para adicionar, actualizar o eliminar contenidos, de una manera rápida y poderosa; conocido generalmente como lenguaje SQL
 
+![Queries](https://github.com/DanielaLopez66/MicroAyuda-Proyecto/blob/main/Databases/Queries/consulta.png).
+
 ## Estructura de Archivos
 
 >IntegradoraI-NombreProyecto<br>
