@@ -5,11 +5,11 @@ Estos escenarios incluirán mockups detallados que mostrarán la interfaz de usu
 
 De este lado estan las imagines de los mockup, cada uno cuenta con la interfaz que se le muestra al usuario al principio de la paliciaion ya se apara iniciar secion o para registrarte:
 
-[Iphone](/FrontEnd/Assets/Iphone%2014.png)
+![Iphone](/FrontEnd/Assets/Iphone%2014.png)
 
-[Web](/FrontEnd/Assets/WEB.png)
+![Web](/FrontEnd/Assets/WEB.png)
 
-[iPad](/FrontEnd/Assets/iPad%20pro.png)
+![iPad](/FrontEnd/Assets/iPad%20pro.png)
 
 
 
