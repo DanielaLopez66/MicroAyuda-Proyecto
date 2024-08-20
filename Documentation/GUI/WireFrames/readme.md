@@ -23,7 +23,7 @@ En esta ventana mostrarnos todo el meterial de apoyo para el diagnostico dado.
 
 
 
-![Wireframe](/FrontEnd/Assets/Wireframes.pdf)
+[Wireframe](/FrontEnd/Assets/Wireframes.pdf)
 ---
 
 
