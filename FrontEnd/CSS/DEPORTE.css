@@ -1,0 +1,151 @@
+.fondo{
+  background: #f096c0;
+  height: 2500px;
+}
+
+.bg-body-tertiary {
+  --bs-bg-opacity: 1;
+  background-color:rgba(246,174,53,1) !important;
+}
+
+.container{
+  border-radius: 50%;
+  background: #732F35;
+  width: 370px;
+  height: 370px;
+  margin-left: 85px;
+  margin-top: -23%;
+}
+
+.chico{
+  margin-left: 25px;
+}
+img{
+  width: 290px;
+}
+
+h2{
+  color: #732F35;
+  text-align: center;
+  font-weight: bold;
+  font-family: Candara;
+}
+
+.textito{
+  color: #fff;
+  text-align: justify;
+}
+
+.texto1{
+  margin-left: 580px;
+  margin-right: 255px;
+  margin-top: 57px;
+  font-size: 25px;
+}
+
+.text2{
+  color: #CD2072;
+  margin-top: 2%;
+  font-size: 20px;
+  margin-left: 32%;
+}
+
+.card-body{
+  background-color: #f2d8e1;
+  color:#CD2072;
+  text-align: left;
+}
+.card {
+  width: 380px;
+  margin-left: 15%;
+  margin-right: 15%;
+  background: #f2d8e1;
+  margin-top: 8%;
+}
+.card-title{
+  color: #f7ae37;
+  text-align: center;
+}
+
+.card-body:hover,
+.card:hover{
+  background: #CD2072;
+  border-color: #CD2072;
+  color: #f2d8e1;
+}
+
+.texto2{
+  margin-top: 10%;
+  width: 1295px;
+  margin-left: 7%;
+  color: #732F35;
+  font-size: 20px;
+  text-align: center;
+}
+
+.carta{
+  background: #f2d8e1;
+  width: 80%;
+  border-radius: 5px;
+  margin-left: 10%;
+  margin-top: 8%;
+}
+
+.card-cuerpo{
+  background: #f2d8e1;
+  border-radius: 5%;
+  padding: 23px;
+}
+
+.card-texto{
+  font-size: 20px;
+  color: #CD2072;
+  text-align: justify;
+}
+
+.texto3{
+  color: #fff;
+  width: 45%;
+  margin-top: 5%;
+  margin-left: 10%;
+  font-size: 20px;
+}
+
+.info{
+  color: #732F35;
+}
+
+.container2{
+  border-radius: 50%;
+  background: #CD2072;
+  width: 450px;
+  height: 450px;
+  margin-left: 65%;
+  margin-top: -465px;
+
+}
+
+.chica{
+  margin-left: 75px;
+  margin-top: 15%;
+}
+
+.cartass{
+  width: 89%;
+  margin-left: 7%;
+  margin-top: 5%;
+}
+
+.card-cuerpito{
+  background: #f7ae37;
+  padding-top: 2%;
+  padding-bottom: 2%;
+  border-radius: 2%;
+
+}
+
+.card-textos{
+  text-align: center;
+  color: #732F35;
+  font-size: 20px;
+}

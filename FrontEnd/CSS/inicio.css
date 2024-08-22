@@ -1,0 +1,109 @@
+.fondo1{
+    background: rgba(246,174,53,1);
+    height: 400px;
+}
+
+.bg-body-tertiary {
+    --bs-bg-opacity: 1;
+    background-color:rgba(240,150,192,1) !important;
+}
+
+.chicaf img{
+    width: 459px;
+    margin-top: -10%;
+    margin-left: 10%;
+}
+
+.title{
+    color: rgba(115,47,53,1);
+    font-weight: bold;
+    text-align: center;
+}
+
+.texto1{
+    color:#f2d8e1 ;
+    font-weight: bold;
+    text-align: center;
+    font-size: 30px;
+}
+
+.texto{
+    margin-left: 40%;
+    margin-top: -32%;
+    margin-right: 15%;
+}
+
+.fondo2{
+    background: rgba(240,150,192,1);
+    height: 218px;
+    margin-top: 0%;
+}
+
+button a {
+    color: inherit; 
+    text-decoration: none; 
+    display: block; 
+}
+
+.regis{
+    background-color: #f2d8e1;
+    width: 150px;
+    height: 50px;
+    font-size: 20px;
+    color:rgba(106,42,50,1);
+    border-color:#f2d8e1;
+    border-radius: 10%;
+    margin-left: 25%;
+    margin-top: 5%;
+   
+}
+
+.sesion{
+    background-color: #f2d8e1;
+    width: 150px;
+    height: 50px;
+    font-size: 20px;
+    color:rgba(106,42,50,1);
+    border-color:#f2d8e1;
+    border-radius: 10%;
+}
+
+.sesion:hover{
+    background: rgba(246,174,53,1);
+    border-color: rgba(246,174,53,1);
+}
+
+
+.regis:hover{
+    background: rgba(246,174,53,1);
+    border-color: rgba(246,174,53,1);
+}
+
+.fondo3{
+    background: #f2d8e1;
+    height: 700px;
+}
+
+.mica img{
+    border-radius: 50%;
+    width: 300px;
+    margin-left: 14%;
+    margin-top: 5%;
+}
+
+.parrf{
+    color:rgba(115,47,53,1) ;
+    font-size: 25px;
+    margin-left: 25%;
+    margin-right: 25%;
+    text-align: center;
+    font-weight: bold;
+}
+
+.title5{
+    color: rgba(246,174,53,1);
+    margin-left: 35%;
+    text-align: center;
+    margin-right: 10%;
+    margin-top: -13%;
+}

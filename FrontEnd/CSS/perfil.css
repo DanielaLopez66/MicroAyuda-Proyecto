@@ -1,0 +1,32 @@
+.fondo1{
+    background: rgba(246,174,53,1);
+    height: 400px;
+}
+
+.circulo{
+    border-radius: 50%;
+    background: rgba(240, 150, 192, 1);
+    width: 254px;
+    height: 254px;
+    margin-top: 9%;
+    margin-left: 15%;
+}
+
+.info{
+    width: 500px;
+    margin-left: 36%;
+    margin-top: -18%;
+    color: #732F35;
+    font-size: 20px;
+}
+
+.info label{
+    padding-top: 10%;
+}
+
+.titulo2{
+    color: #732F35;
+    text-align: left;
+    margin-top: 10%;
+    margin-left: 15%;
+}

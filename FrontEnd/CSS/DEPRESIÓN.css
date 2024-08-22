@@ -1,0 +1,199 @@
+.fondo{
+    background:#f2d8e1;
+    height: 4000px;
+}
+
+.bg-body-tertiary {
+  --bs-bg-opacity: 1;
+  background-color:rgba(246,174,53,1) !important;
+}
+
+
+
+.v70_43 {
+    width: 301px;
+    color: rgba(205,32,114,1);
+    position: absolute;
+    top: 181px;
+    left: 864px;
+    font-family: Candara;
+    font-weight: Bold;
+    opacity: 1;
+    text-align: left;
+  }
+
+  .v72_46 {
+    color: rgba(114,47,54,1);
+    position: absolute;
+    top: 604px;
+    left: 706px;
+    font-family: Candara;
+    font-weight: Bold;
+    opacity: 1;
+    text-align: center;
+    font-size: 40px;
+
+  }
+  .muñeca1 {
+    margin-left: 10%;
+    margin-top: -9%;
+  }
+  .texto1 {
+    width: 902px;
+    color: rgba(115,47,53,1);
+    position: absolute;
+    top: 231px;
+    left: 534px;
+    font-family: Marmelad;
+    font-weight: Regular;
+    font-size: 20px;
+    opacity: 1;
+    text-align: justified;
+  }
+  .v72_49 {
+    width: 660px;
+    height: 225px;
+    background: rgba(240,150,192,1);
+    opacity: 1;
+    position: absolute;
+    top: 696px;
+    left: 54px;
+    border-top-left-radius: 47px;
+    border-top-right-radius: 47px;
+    border-bottom-left-radius: 47px;
+    border-bottom-right-radius: 47px;
+    overflow: hidden;
+  }
+  .cajita {
+    width: 97%;
+    height: 300px;
+    background: rgba(119,57,65,1);
+    opacity: 1;
+    position: absolute;
+    top: 2593px;
+    left: 19px;
+    border-top-left-radius: 71px;
+    border-top-right-radius: 71px;
+    border-bottom-left-radius: 71px;
+    border-bottom-right-radius: 71px;
+    overflow: hidden;
+  }
+  .v72_50 {
+    width: 664px;
+    height: 374px;
+    background: rgba(240,150,192,1);
+    opacity: 1;
+    position: absolute;
+    top: 695px;
+    left: 786px;
+    border-top-left-radius: 52px;
+    border-top-right-radius: 52px;
+    border-bottom-left-radius: 52px;
+    border-bottom-right-radius: 52px;
+    overflow: hidden;
+  }
+  .v72_47 {
+    width: 605px;
+    color: rgba(255,255,255,1);
+    position: absolute;
+    top: 747px;
+    left: 86px;
+    font-family: Candara;
+    font-weight: Bold;
+    font-size: 20px;
+    opacity: 1;
+    text-align: justified;
+  }
+  .v72_48 {
+    width: 598px;
+    color: rgba(255,255,255,1);
+    position: absolute;
+    top: 744px;
+    left: 819px;
+    font-family: Candara;
+    font-weight: Bold;
+    font-size: 20px;
+    opacity: 1;
+    text-align: justified;
+  }
+  .v72_61 {
+    width: 812px;
+    color:#f7ae37 ;
+    position: absolute;
+    top: 168%;
+    left: 367px;
+    font-family: Marmelad;
+    font-weight: Regular;
+    opacity: 1;
+    font-weight: bold;
+    text-align: center;
+  }
+  
+  .v72_64 {
+    width: 539px;
+    color: rgba(205,32,114,1);
+    position: absolute;
+    top: 2071px;
+    left: 722px;
+    font-family: Candara;
+    opacity: 1;
+    font-weight: bold;
+  }
+  .v73_28 {
+    width: 86%;
+    color: rgba(240,150,192,1);
+    position: absolute;
+    top: 2655px;
+    left: 75px;
+    font-family: Marmelad;
+    font-weight: Regular;
+    font-size: 25px;
+    opacity: 1;
+    text-align: justify;
+  }
+  .v72_62 {
+    width: 100%;
+    position: absolute;
+    top: 1343px;
+    left: 6%;
+    font-size: 20px;
+    opacity: 1;
+    text-align: justify;
+  }
+  .chica{
+    width: 348px;
+    height: 528px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 1958px;
+    left: 0px;
+    overflow: hidden;
+  }
+
+  .v72_65 {
+    width: 70%;
+    color: rgba(114,47,54,1);
+    position: absolute;
+    top: 2159px;
+    left: 403px;
+    font-family: Candara;
+    font-weight: Regular;
+    font-size: 20px;
+    opacity: 1;
+    text-align: justify;
+  }
+  
+ 
+  #puntos{
+    color: rgba(115,47,53,1);
+  }
+  #Parra1{
+    color: rgba(205,32,114,1);
+  }
+
+  .Muñequita{
+    margin-top: 12%;
+  }

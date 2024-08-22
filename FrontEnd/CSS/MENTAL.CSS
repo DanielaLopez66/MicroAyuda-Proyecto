@@ -1,0 +1,142 @@
+.fondo{
+    background:#f096c0;
+    height: 1000px;
+}
+
+.container-fluid{
+    background: #f7ae37;
+}
+.bg-body-tertiary {
+    --bs-bg-opacity: 1;
+    background-color:rgba(246,174,53,1) !important;
+  }
+  
+h1{
+    color: #732F35;
+    text-align: center;
+    margin-top: 5%;
+}
+
+.texto1{
+    color: #fff;
+    font-size: 20px;
+    text-align: justify;
+}
+
+.info{
+    width: 85%;
+    margin-left: 118px;
+}
+
+.Fcator{
+    margin-left: 42%;
+    width: 45%;
+    margin-top: 15%;
+}
+.texto2{
+    color:#732F35 ;
+    text-align: center;
+}
+
+.parra{
+    color: #f2d8e1;
+    font-size: 20px;
+    margin-left: 10%;
+    margin-top: 5%;
+}
+.puntos{
+    color: #fff;
+    font-size: 20px;
+    margin-left: 10%;
+}
+
+img{
+    width: 490px;
+}
+
+
+.chico{
+    margin-top: -447px;
+    margin-left: 209px;
+
+}
+
+.fondo2{
+    background: #f2d8e1;
+    height: 2000px;
+    margin-top: -5%;
+}
+
+.title{
+    color: #f7ae37;
+    text-align: center;
+    padding-top: 2%;
+    font-size: 25px;
+}
+
+.card{
+    background:#f096c0;
+    margin-top: 5%;
+    border: #f2d8e1;
+    border-radius: 9%;
+    margin-right: 5%;
+    margin-left: 5%
+}
+.card-body{
+    border-radius: 9%;
+    height: 105px;
+    text-align: center;
+    padding-top: 10%;
+    
+}
+
+.card-body:hover{
+    background: #732F35;
+    color: #f096c0;
+}
+
+.card-title{
+    color: #fff;
+    font-size: 25px;
+}
+
+.texto0{
+    margin-top: 5%;
+}
+.trata{
+    color: #f7ae37;
+    text-align: center;
+    margin-top: -1570px;
+    font-weight: bold;
+}
+
+.parraf{
+    color: #732F35;
+    font-size: 20px;
+    text-align: center;
+    margin-left: 15%;
+    margin-right: 15%;
+    font-weight: bold;
+    margin-top: 2%;
+}
+
+.caja2{
+    background:#CD2072 ;
+    width: 860px;
+    height: 169px;
+    margin-top: 16%;
+    margin-left: 11%;
+    border-radius: 64px;
+}
+
+.mensaje{
+    color: #fff;
+    font-size: 22px;
+    padding-right: 5%;
+    padding-left: 5%;
+    padding-top: 2%;
+}
+
+.chica{
+    margin-left: 60%;
+}
