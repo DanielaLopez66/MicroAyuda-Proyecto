@@ -16,7 +16,7 @@ La sección de ansiedad detalla síntomas y actividades sugeridas para manejarla
 
 [PROTOTIPO](/FrontEnd/Assets/prototipo.pdf)
 
-![Interfaz](img.png.jpeg)
+![prototipo](img.png.jpeg)
 
 ---
 ## Equipo de desarrollo
@@ -24,5 +24,5 @@ La sección de ansiedad detalla síntomas y actividades sugeridas para manejarla
 |----------|--------|-----------|----------|
 |Ana Daniela Lopez Neri|[@DanielaLopez66](https://github.com/DanielaLopez66)| Lider del desarrollo Data Bases| Tiene todos los puntos que se solicitaron ✅|
 |Abril Guzmán Barrera|[@Abrilgb](https://github.com/Abrilgb)|Desarrollo de Fronend|✅Revisado y aprobado|
-| Edgar Cabrera Velazquez| [@Edgar-Cbr](https://github.com/Edgar-Cbr)| Encargado de desarrollo de backend| ❌ |
-|Diego Salvador Tecorralco Martinez| [@DiegoTecorralco](https://github.com/DiegoTecorralco)| Encargado de la documentacion|❌|
+| Edgar Cabrera Velazquez|[@Edgar-Cbr](https://github.com/Edgar-Cbr)| Encargado de desarrollo de backend| ❌ |
+|Diego Salvador Tecorralco Martinez|[@DiegoTecorralco](https://github.com/DiegoTecorralco)| Encargado de la documentacion|❌|
