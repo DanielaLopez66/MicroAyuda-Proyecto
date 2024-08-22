@@ -5,12 +5,12 @@ En esta sección se encontrará la estructura de nuestra pagina, los estilos que
 ## Estructura de Archivos
 
 >IntegradoraI-MicroAyuda<br>
->**| - BackEnd** <br>
->&nbsp;&nbsp;|- PHP<br>
->&nbsp;&nbsp;|- DB_Connection<br>
+>**| - FrontEnd** <br>
+>&nbsp;&nbsp;|-HTML<br>
+>&nbsp;&nbsp;|-CSS<br>
 >| - Database<br>
 >| - Documentation<br>
->| - FrontEnd
+>| - BackEnd
 
 
 ## Equipo de Desarrollo
