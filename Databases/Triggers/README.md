@@ -3,6 +3,8 @@
 
 Un trigger, también conocido como disparador (Por su traducción al español) es un conjunto de sentencias SQL las cuales se ejecutan de forma automática cuando ocurre algún evento que modifique a una tabla.
 
+![Triggers](https://github.com/DanielaLopez66/MicroAyuda-Proyecto/blob/main/Databases/Triggers/triggers.PNG).
+
 ## Estructura de Archivos
 
 >IntegradoraI-NombreProyecto<br>
