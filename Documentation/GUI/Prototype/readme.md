@@ -16,7 +16,7 @@ La sección de ansiedad detalla síntomas y actividades sugeridas para manejarla
 
 [PROTOTIPO](/FrontEnd/Assets/prototipo.pdf)
 
-![Interfaz](img.png.png)
+![Interfaz](img.png.jpeg)
 
 ---
 ## Equipo de desarrollo
