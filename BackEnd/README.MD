@@ -1,4 +1,4 @@
-## BackEnd  https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white
+## BackEnd  (https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 En esta sección se encontrará la parte dinamica de nuestra pagina y la conexion de datos
 
 ## Estructura de Archivos
