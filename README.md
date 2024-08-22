@@ -36,7 +36,7 @@ Nuestra pagina se enfocara en esta serie de problemas pero mas que nada en los j
 |------------|--------|---|---|
 |Ana Daniela Lopez Neri|[@DanielaLopez66](https://github.com/DanielaLopez66)|Líder de las base de datos|✅ Revisado y aprobado.|
 |Abril Guzman Barrera|[@Abrilgb](https://github.com/Abrilgb)|Lider de Frontend|✅ Revisado y aprobado|
-|Edgar Cabrera Velazquez |[@Edgar-Cbr](https://github.com/Edgar-Cbr)|Lider de Backend ||No a reviso:(|
+|Edgar Cabrera Velazquez |[@Edgar-Cbr](https://github.com/Edgar-Cbr)|Lider de Backend |✅ Revisado y aprobado|
 |Diego Salvador Tecorralco Martinez |[@DiegoTecorralco](https://github.com/DiegoTecorralco)|Lider de documentación|✅ Revisado y aprobado.|
 
 ## Organigrama
