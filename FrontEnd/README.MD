@@ -1,7 +1,7 @@
  ## FrontEnd ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white).
 
 
-En esta sección se encontrará la estructura de nuestra pagina, los estilos que se usaron, las interacciones dinamicas que tendra, etc
+En esta sección se encontrará la estructura de nuestra pagina, los estilos que se usaron, y las imagenes, etc
 ## Estructura de Archivos
 
 >IntegradoraI-MicroAyuda<br>
