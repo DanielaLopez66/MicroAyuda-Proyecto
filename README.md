@@ -18,13 +18,27 @@ Nuestra pagina se enfocara en esta serie de problemas pero mas que nada en los j
 
 ## Objetivos especificos
 
-**Personalización y Flexibilidad:** El texto busca adaptarse y cambiar según las respuestas del usuario, creando así una experiencia más personalizada y entretenida. Esto implica que las preguntas y el flujo de la prueba pueden variar significativamente dependiendo de las respuestas previas del usuario.
+Nuestra aplicación web de salud mental "MicroAyuda" tiene como objetivos específicos proporcionar un entorno seguro, accesible y efectivo que permita a los usuarios mejorar su bienestar emocional y psicológico. En este apartado describiremos los objetivos específicos que consideramos importantes que guían el desarrollo y la implementación de esta plataforma:
 
-**Interactividad Visual:** Se emplean imágenes y colores para mantener el interés del usuario durante la prueba. Este enfoque no solo busca informar, sino también mantener comprometido al usuario a lo largo del proceso.
+1. **Facilitar la Autoevaluación Emocional:**
+   Proporcionar herramientas interactivas que permitan a los usuarios realizar un seguimiento continuo de su estado emocional, identificar patrones de comportamiento y recibir recomendaciones personalizadas basadas en sus necesidades individuales.
 
-**Entrega de Resultados Claros:** Al finalizar la prueba, el texto tiene como objetivo proporcionar al usuario un mensaje claro que indique el nombre del problema psicológico detectado. Esto se acompaña de una breve explicación sobre el trastorno identificado y sugerencias sobre qué pasos seguir a continuación o dónde encontrar más ayuda profesional.
+2. **Ofrecer Contenido Educativo de Alta Calidad:**
+   Desarrollar una biblioteca digital completa que incluya artículos, videos, podcasts y recursos sobre salud mental, curados y validados por profesionales, para educar a los usuarios sobre temas relacionados con el bienestar psicológico.
 
-**Usabilidad y Experiencia del Usuario:** El texto busca asegurar una experiencia de usuario satisfactoria y efectiva, guiando al usuario de manera clara desde el inicio hasta la entrega de los resultados.
+3. **Promover la Prevención y la Intervención Temprana:**
+   Implementar mecanismos que detecten signos tempranos de posibles problemas de salud mental y ofrezcan intervenciones oportunas a través de consejos personalizados y herramientas de autoayuda.
+
+4. **Fomentar la Creación de Hábitos Saludables:**
+   Integrar funcionalidades que motiven a los usuarios a adoptar y mantener hábitos que contribuyan a su bienestar emocional, tales como la meditación, el ejercicio, y el sueño saludable, mediante recordatorios y planes personalizados.
+
+5. **Garantizar la Seguridad y la Privacidad de los Usuarios:**
+   Asegurar que todos los datos personales y de salud recolectados por la aplicación sean tratados con el más alto nivel de seguridad, siguiendo normativas internacionales, y permitiendo a los usuarios controlar completamente su información.
+
+6. **Proporcionar Recursos de Apoyo en Situaciones de Crisis:**
+   Ofrecer acceso inmediato a recursos de apoyo en situaciones de crisis, como líneas de ayuda, contactos de emergencia y técnicas de intervención rápida, para garantizar que los usuarios reciban la ayuda necesaria cuando más lo necesitan.
+
+Estos objetivos específicos se alinean con la misión de nuestra página "MicroAyuda" de brindar un apoyo integral y accesible a todos los jovenes, independientemente de su situación, para mejorar su salud mental y calidad de vida.
 
 ## Diagrama de Gantt
 
