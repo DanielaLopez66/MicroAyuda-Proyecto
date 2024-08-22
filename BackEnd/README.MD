@@ -4,12 +4,12 @@ En esta sección se encontrará la parte dinamica de nuestra pagina y la conexio
 ## Estructura de Archivos
 
 >IntegradoraI-MicroAyuda<br>
->**| - FrontEnd** <br>
->&nbsp;&nbsp;|-HTML<br>
->&nbsp;&nbsp;|-CSS<br>
+>**| -BackEnd** <br>
+>&nbsp;&nbsp;|-DB_Connection<br>
+>&nbsp;&nbsp;|-PHP<br>
 >| - Database<br>
 >| - Documentation<br>
->| - BackEnd
+>| - FrontEnd
 
 
 ## Equipo de Desarrollo
@@ -17,7 +17,7 @@ En esta sección se encontrará la parte dinamica de nuestra pagina y la conexio
 |Integrante|Contacto|Rol|Observaciones|
 |------------|--------|---|---|
 |Edgar Cabrera Velazquez |[@Edgar-Cbr](https://github.com/Edgar-Cbr)|Lider Desarrollador de backend y frontend|✅ Revisado y aprobado.|
-|Ana Daniela Lopez Neri|[@DanielaLopez66](https://github.com/DanielaLopez66)|Base de Datos|Faltan añadir carpetas y información.|
-|Abril Guzman Barrera|[@Abrilgb](https://github.com/Abrilgb)|Documemtacion|✅ Revisado y aprobado.|
-|Diego Salvador Tecorralco Martinez |[@DiegoTecorralco](https://github.com/DiegoTecorralco)||❌ Está mal la tabla y faltan agregar la información.|
+|Ana Daniela Lopez Neri|[@DanielaLopez66](https://github.com/DanielaLopez66)|Base de Datos|❌ No ha revisado|
+|Abril Guzman Barrera|[@Abrilgb](https://github.com/Abrilgb)|Documemtacion|❌ No ha revisado|
+|Diego Salvador Tecorralco Martinez |[@DiegoTecorralco](https://github.com/DiegoTecorralco)||❌ No ha revisado|
 |M.T.I. Marco A. Ramírez Hernández|[@MTI-MarcoRH](https://github.com/MTI-MarcoRH)|Documentador|😐 No ha revisado.|
