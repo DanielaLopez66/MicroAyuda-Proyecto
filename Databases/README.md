@@ -28,4 +28,4 @@
 |Abril Guzman Barrera|[@Abrilgb](https://github.com/Abrilgb)|Documemtacion|✅ Revisado y aprobado.|
 |Edgar Cabrera Velazquez |[@Edgar-Cbr](https://github.com/Edgar-Cbr)|desarrollador de backend y frontend|✅ Revisado y aprobado.|
 |Diego Salvador Tecorralco Martinez |[@DiegoTecorralco](https://github.com/DiegoTecorralco)||✅ Revisado y aprobado.|
-|M.T.I. Marco A. Ramírez Hernández|[@MTI-MarcoRH](https://github.com/MTI-MarcoRH)|Documentador|😐 No ha revisado.|
+
