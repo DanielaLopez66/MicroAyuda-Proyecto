@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ANSIEDAD</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
+        crossorigin="anonymous"></script>
+    <link href="https://fonts.googleapis.com/css?family=Candara&display=swap" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css?family=Marmelad&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="ANSIEDAD.css">
+</head>
+
+<body>
+
+    <div class="fondo">
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+            <div class="container-fluid">
+                <a class="navbar-brand" href="#">MICA</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                    data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false"
+                    aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+                    <div class="navbar-nav">
+                        <a class="nav-link active" aria-current="page" href="HOME.php">Home</a>
+                        <a class="nav-link" href="perfil.php">Perfil</a>
+                        <a class="nav-link" href="Nosotros-Ini.php">Nosotros</a>
+                    </div>
+                </div>
+            </div>
+        </nav>
+
+        <h1 class="v55_11">ANSIEDAD</h1>
+
+        <h3>¿Cómo se siente la ansiedad?</h3>
+
+        <span class="v56_13">
+            El trastorno de ansiedad se encuentra entre los problemas mentales, emocionales y de
+            comportamiento que se presentan en la niñez y la adolescencia, aseguró Clarissa
+            Villaseñor, paidopsiquiatrade los Servicios de Salud Mental de la Secretaría de Salud
+        </span>
+
+        <div class="chica">
+            <img src="/imge/chicaF.png" alt="">
+        </div>
+        <span class="v56_14">
+            La ansiedad puede manifestarse de muchas maneras diferentes. Algunas personas pueden sentir
+            una constante preocupación o miedo que no pueden controlar. Otras pueden experimentar síntomas
+            físicos como:
+            <ul type="I" start="10" reversed>
+                <li> Latidos del corazón rápidos o irregulares.</li>
+                <li>Sudoración excesiva.</li>
+                <li> Temblores o sacudidas.</li>
+                <li>Sensación de falta de aire. </li>
+                <li>Mareos o náuseas.</li>
+            </ul>
+        </span>
+
+        <div class="circulo1"></div>
+        <div class="circulo2"></div>
+        <div class="circulo3"></div>
+        <div class="v57_36"></div>
+        <div class="circulo4"></div>
+
+        <div class="circulo6"></div>
+
+        <div class="v57_24">
+            <div class="v56_22"></div>
+        </div>
+
+        <span class="v56_23">
+            Recuerda que es completamente normal sentirse ansioso de vez en cuando, especialmente
+            en situaciones estresantes. Sin embargo, si sientes que la ansiedad está afectando tu vida diaria, tus
+            relaciones o tu rendimiento en la escuela, es importante buscar ayuda.
+        </span>
+
+        <h2>¿QUE CAUSA LA ANSIEDAD?</h2>
+
+        <!-- cards -->
+        <div class="card-group">
+            <div class="card">
+                <div class="card-body">
+                    <h5 class="card-title">SU CUERPO</h5>
+                    <p class="card-text">Los cambios físicos son una causa de incomodidad para muchos. Desarrollarse
+                        antes o después, la forma de nuestro cuerpo, puede ocasionar que nos siéntanos diferentes y
+                        fuera de lugar </p>
+                </div>
+            </div>
+            <div class="card">
+                <div class="card-body">
+                    <h5 class="card-title">COMO SON PERCIBIDOS</h5>
+                    <p class="card-text">Se preocupan de manera excesiva por el hecho de que pudieran ser vistos como
+                        incompetentes o están preocupados por hacer lago realmente vergonzoso
+                    </p>
+                </div>
+            </div>
+            <div class="card">
+                <div class="card-body">
+                    <h5 class="card-title">RENDIMIENTO</h5>
+                    <p class="card-text">Gran parte de la ansiedad se centra en el perfeccionismo o la necesidad de ser
+                        mejores. Los adolescentes o jóvenes que estudian dicen que sienten una gran presión por obtener
+                        calificaciones sobresalientes </p>
+                </div>
+            </div>
+        </div>
+
+        <span class="v57_38">
+            ACTIVIDADES PARA DISMINUIR LA ANSIEDAD
+            <ul id="lista">
+                <li>Ejercicio</li>
+                <li>Encender una vela</li>
+                <li>Reducir la cafeína</li>
+                <li>Pasar tiempo con amigos o familia</li>
+                <li>Aprende a decir no</li>
+                <li>Afecto físico</li>
+                <li>Escuchar música relajante</li>
+                <li>Pasar tiempo con tu mascota si tienes una</li>
+            </ul>
+
+            <p id="Parrafito">
+                Aunque el estrés y la ansiedad pueden aumentar, existen muchas formas simples para reducir la presión
+                que
+                sientes.
+                Estos puntos tiene como función alejar tus pensamientos intrusos de la fuente de estrés. Estos pueden
+                funcionar juntos para aliviar la ansiedad, de esta manera mejorara tu equilibrio general de tu vida
+            </p>
+
+        </span>
+        <span class="circulo7"></span>
+        <div class="name"></div>
+
+    </div>
+</body>
+</body>
+
+</html>

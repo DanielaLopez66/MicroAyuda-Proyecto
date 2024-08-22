@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
+        crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="autoestima.css">
+</head>
+
+<body>
+    <div class="v64_125">
+
+
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+            <div class="container-fluid">
+                <a class="navbar-brand" href="#">MICA</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                    data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false"
+                    aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+                    <div class="navbar-nav">
+                        <a class="nav-link active" aria-current="page" href="HOME.php">Home</a>
+                        <a class="nav-link" href="perfil.php">Perfil</a>
+                        <a class="nav-link" href="Nosotros-Ini.php">Nosotros</a>
+                    </div>
+                </div>
+            </div>
+        </nav>
+
+        <div class="parf1">
+            <h1 class="title">Autoestima</h1>
+            <P class="texto1">La autoestima es básicamente cómo te ves a ti mismo y cómo te sientes contigo mismo, ya
+                sea de manera
+                positiva o negativa. Se trata de lo que piensas y sientes sobre tus propias experiencias y habilidades.
+                Aunque es un término de Psicología que muchos expertos estudian, lo usamos en la vida diaria para hablar
+                del
+                valor que nos damos a nosotros mismos. Tu autoestima está conectada con la imagen que tienes de ti y con
+                aceptarte tal como eres, con tus cualidades y tus defectos.
+            </P>
+        </div>
+
+        <div class="circulo">
+            <div class="chico"> <img src="/imge/chico.png" alt=""></div>
+        </div>
+
+        <!-- cards -->
+        <div class="card-container">
+            <div class="card" style="width: 18rem;">
+                <div class="card-body">
+                    <h5 class="card-title">Alta Autoestima</h5>
+                    <p class="card-text">Tener baja autoestima se nota cuando te criticas todo el tiempo, te sientes
+                        inútil,
+                        temes fracasar o ser rechazado, y te cuesta aceptar cumplidos. Te comparas con los demás de
+                        manera
+                        negativa y necesitas constantemente la aprobación de otros. También puedes intentar ser
+                        perfecto,
+                        tener problemas para tomar decisiones, enfrentar dificultades en tus relaciones y sentirte
+                        desmotivado y apático. Estos sentimientos pueden afectar tu vida, pero con estrategias adecuadas
+                        y,
+                        a veces, ayuda profesional, puedes mejorar tu autoestima.</p>
+                </div>
+            </div>
+            <div class="card" style="width: 18rem;">
+                <div class="card-body">
+                    <h5 class="card-title">Baja Autoestima</h5>
+                    <p class="card-text">Tener una autoestima alta significa sentirte seguro de ti mismo, valorarte sin
+                        importar lo que otros piensen y recuperarte rápidamente de los contratiempos. Las personas con
+                        buena
+                        autoestima conocen sus puntos fuertes y débiles, ponen límites saludables, tienen relaciones
+                        respetuosas, se cuidan y ven el futuro con optimismo. Además, son independientes emocionalmente
+                        y
+                        expresan sus necesidades de manera clara y respetuosa.</p>
+                </div>
+            </div>
+        </div>
+        
+        <div class="dep1">
+            <p class="texto2">
+                La autoestima se basa en el valor que una persona se otorga a sí misma, la cual puede ser modificada a
+                través del tiempo y requiere de un conocimiento adecuado y aceptación personal.
+                Una motivación positiva al enfrentarse a una determinada tarea, haciendo hincapié en las cualidades propias,
+                aumenta las posibilidades de éxito y, por lo tanto, la autoestima.
+            </p>
+        </div>
+
+        <h1 class="title2">¿COMO MANTENER UN AUTOESTIMA BUENO?</h1>
+    </div>    
+        
+    <div class="fondo2">
+
+        
+
+        <div class="PUNTOS">
+
+            <ul class="lista">
+                <li>Habla contigo mismo como un amigo: Sé amable contigo y reconoce tus logros en lugar de criticarte.
+                </li>
+                <li>Cuida de ti: Duerme bien, come saludable y haz ejercicio. Sentirte bien físicamente te ayuda a
+                    sentirte bien emocionalmente.</li>
+                <li>Acepta tus errores: Todos se equivocan. Aprende de ellos y sigue adelante.</li>
+                <li>Rodéate de buena vibra: Pasa tiempo con personas que te apoyen y te hagan sentir genial.</li>
+                <li>Fija metas pequeñas: Lograr pequeñas cosas cada día te dará un gran impulso de confianza.</li>
+                <li>Sé amable contigo: Trátate con la misma compasión que le darías a tu mejor amigo.</li>
+                <li>Habla de tus sentimientos: Comparte cómo te sientes con alguien de confianza. A veces, solo hablarlo
+                    ayuda un montón.</li>
+                <li>Prueba cosas nuevas: Sal de tu zona de confort y descubre nuevas habilidades o pasatiempos.</li>
+                <li>Ayuda a los demás: Hacer algo bueno por alguien más puede hacerte sentir increíble.</li>
+            </ul>
+
+        </div>
+
+        
+        <div class="consejos">
+            <h2 class="title3">CONSEJOS</h2>
+            <ul class="ptos">
+                <li> <b>Deja de menospreciarte:</b> Acepta tus virtudes y defectos, y valora tu potencial.</li>
+                <li> <b>Deja de menospreciarte:</b> Acepta tus virtudes y defectos, y valora tu potencial. </li>
+                <li><b> Piensa en positivo:</b> Enfócate en lo positivo y celebra las cosas buenas de tu vida.</li>
+                <li><b>Crea metas reales:</b> Establece objetivos alcanzables y aprende de los fracasos sin culparte.</li>
+                <li><b>Evita compararte:</b> Enfócate en tu propio camino y evita envidiar a los demás.</li>
+                <li><b> Perdónate:</b> Libérate de las culpas del pasado y avanza.</li>
+                <li><b>Trátate con respeto:</b> Sé amable contigo mismo y practica la autocrítica constructiva.</li>
+                <li><b> Dedícate tiempo:</b> Realiza actividades que te hagan feliz y reduzcan el estrés.</li>
+                <li> <b>Piensa en los logros del día:</b> Reflexiona sobre tus logros y aprendizajes cada noche.</li>
+                <li> <b>Busca apoyo:</b> Si es necesario, busca ayuda profesional para mejorar tu autoestima.</li>
+            </ul>
+        </div>
+
+        <div class="imagen">
+            <img src="/imge/CHICA.png" alt="">
+        </div>
+
+        <p class="tex5">
+            Es completamente normal experimentar momentos de baja autoestima, y puede surgir por diversas razones. Estas
+            pueden incluir experiencias pasadas, comparaciones con los demás, fracasos personales, críticas internas
+            severas, o simplemente situaciones estresantes. Reconocer que estos momentos son parte de la experiencia
+            humana puede ayudarte a abordarlos con más comprensión y menos autocrítica. Lo importante es tener
+            estrategias y recursos para mejorar y mantener una autoestima saludable a largo plazo
+        </p>
+
+
+
+
+
+    </div>
+</body>
+
+</html>
