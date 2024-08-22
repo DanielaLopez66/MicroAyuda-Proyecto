@@ -31,8 +31,8 @@
 
 |Integrante|Contacto|Rol|Observaciones|
 |------------|--------|---|---|
-|Ana Daniela Lopez Neri|[@DanielaLopez66](https://github.com/DanielaLopez66)|Líder de las base de datos| Falta añadir informacion|
+|Ana Daniela Lopez Neri|[@DanielaLopez66](https://github.com/DanielaLopez66)|Líder de las base de datos| ✅ Revisado y aprobado, se agrego lo que hacia falta.|
 |Abril Guzman Barrera|[@Abrilgb](https://github.com/Abrilgb)|Documemtacion|✅ Revisado y aprobado.|
 |Edgar Cabrera Velazquez |[@Edgar-Cbr](https://github.com/Edgar-Cbr)|desarrollador de backend y frontend|✅ Revisado y aprobado.|
 |Diego Salvador Tecorralco Martinez |[@DiegoTecorralco](https://github.com/DiegoTecorralco)||✅ Revisado y aprobado.|
-|M.T.I. Marco A. Ramírez Hernández|[@MTI-MarcoRH](https://github.com/MTI-MarcoRH)|Documentador|😐 No ha revisado.|
+
